@@ -1,29 +1,3 @@
-// import 'package:flutter/material.dart';
-
-// class WeatherScreen extends StatelessWidget {
-//   const WeatherScreen({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(title: const Text('Weather Tips')),
-//       body: Padding(
-//         padding: const EdgeInsets.all(16.0),
-//         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: const [
-//           Text('Weather & Peas', style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
-//           SizedBox(height: 12),
-//           Text('• Peas prefer cool weather. Avoid extreme heat during flowering.'),
-//           SizedBox(height: 8),
-//           Text('• Rain during flowering can reduce yield and increase disease risk.'),
-//           SizedBox(height: 8),
-//           Text('• Monitor forecasts and protect crops from unexpected frosts.'),
-//         ]),
-//       ),
-//     );
-//   }
-// }
-
-
 import 'package:flutter/material.dart';
 
 class WeatherScreen extends StatelessWidget {
