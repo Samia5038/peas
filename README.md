@@ -1,16 +1,40 @@
-# peas
+# Peas Care
 
-A new Flutter project.
+Peas Care is a Flutter mobile application designed to support farmers and general users in pea cultivation. The app provides guided care instructions, seed variety information, soil condition advice, weather information, and role-based access for farmers and general users.
+
+## Project Overview
+
+- Role selection for general users and farmers
+- Detailed pea seed variety information
+- Soil condition monitoring and cultivation guidance
+- Fertilizer recommendations and treatment steps
+- Weather data display for planning and crop care
+- Clean Bangla interface for local language users
+
+## Screenshots
+
+Below are the app screens that showcase the main flows:
+
+1. **Welcome / Intro Screen**
+2. **User Role Selection**
+3. **Dashboard with crop guidance cards**
+
+![App Intro Screen](screenshots/intro_screen.png)
+
+![Role Selection Screen](screenshots/role_selection.png)
+
+![Dashboard Screen](screenshots/dashboard_screen.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
+1. Install Flutter from https://flutter.dev
+2. Open the project in your IDE
+3. Run `flutter pub get`
+4. Launch the app with `flutter run`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Notes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Add the screenshots to the `screenshots/` folder with the same filenames used above.
+- The app is built in Flutter and targets mobile platforms.
