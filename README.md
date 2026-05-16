@@ -25,14 +25,6 @@ Below are the app screens that showcase the main flows:
 
 ![Dashboard Screen](screenshots/dashboard_screen.png)
 
-## Getting Started
-
-To run this project locally:
-
-1. Install Flutter from https://flutter.dev
-2. Open the project in your IDE
-3. Run `flutter pub get`
-4. Launch the app with `flutter run`
 
 ## Notes
 
