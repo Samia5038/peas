@@ -11,13 +11,6 @@ Peas Care is a Flutter mobile application designed to support farmers and genera
 - Weather data display for planning and crop care
 - Clean Bangla interface for local language users
 
-## Screenshots
-
-Below are the app screens that showcase the main flows:
-
-1. **Welcome / Intro Screen**
-2. **User Role Selection**
-3. **Dashboard with crop guidance cards**
    
 [Demo Video](https://drive.google.com/file/d/1qcKfj0nsOTs9gE-2HTr_RYpnlAVy-Qud/view)
 
