@@ -15,7 +15,4 @@ Peas Care is a Flutter mobile application designed to support farmers and genera
 [Demo Video](https://drive.google.com/file/d/1qcKfj0nsOTs9gE-2HTr_RYpnlAVy-Qud/view)
 
 
-## Notes
 
-- Add the screenshots to the `screenshots/` folder with the same filenames used above.
-- The app is built in Flutter and targets mobile platforms.
