@@ -18,12 +18,7 @@ Below are the app screens that showcase the main flows:
 1. **Welcome / Intro Screen**
 2. **User Role Selection**
 3. **Dashboard with crop guidance cards**
-
-![App Intro Screen](screenshots/intro_screen.png)
-
-![Role Selection Screen](screenshots/role_selection.png)
-
-![Dashboard Screen](screenshots/dashboard_screen.png)
+[Demo Video](https://drive.google.com/file/d/1qcKfj0nsOTs9gE-2HTr_RYpnlAVy-Qud/view)
 
 
 ## Notes
